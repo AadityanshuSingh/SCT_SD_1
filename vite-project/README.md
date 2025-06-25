@@ -23,8 +23,8 @@ This is a simple **Temperature Converter** application built using **React** and
 1. Clone this repository:
 
    ```bash
-   git clone <your-repository-link>
-   cd <project-folder>
+   git clone https://github.com/AadityanshuSingh/SCT_SD_1
+   cd vite-project
    ```
 
 2. Install dependencies:
