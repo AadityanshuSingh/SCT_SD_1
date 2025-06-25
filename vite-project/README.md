@@ -1,12 +1,43 @@
-# React + Vite
+# Temperature Converter 🔥❄️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple **Temperature Converter** application built using **React** and **Tailwind CSS**. It allows users to convert temperatures between **Celsius**, **Fahrenheit**, and **Kelvin** scales in real-time.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features ✅
 
-## Expanding the ESLint configuration
+- Convert between **Celsius (°C)**, **Fahrenheit (°F)**, and **Kelvin (K)**.
+- Real-time results as the user types.
+- Clean and responsive UI with modern design.
+- Fully user-driven, no backend required.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Screenshot 📸
+
+![Temperature Converter Screenshot](public/image.png)
+
+> **Note:** Replace the image path `screenshots/temperature-converter.png` with the actual path of your screenshot.
+
+---
+
+## How to Run 🚀
+
+1. Clone this repository:
+
+   ```bash
+   git clone <your-repository-link>
+   cd <project-folder>
+   ```
+
+2. Install dependencies:
+
+   ```bash
+    npm install
+   ```
+
+3. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
