@@ -9,15 +9,12 @@ This is a simple **Temperature Converter** application built using **React** and
 - Convert between **Celsius (°C)**, **Fahrenheit (°F)**, and **Kelvin (K)**.
 - Real-time results as the user types.
 - Clean and responsive UI with modern design.
-- Fully user-driven, no backend required.
 
 ---
 
 ## Screenshot 📸
 
 ![Temperature Converter Screenshot](public/image.png)
-
-> **Note:** Replace the image path `screenshots/temperature-converter.png` with the actual path of your screenshot.
 
 ---
 
